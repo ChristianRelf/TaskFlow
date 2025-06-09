@@ -202,9 +202,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📖 [Documentation](https://github.com/your-username/taskflow/wiki)
-- 🐛 [Report Issues](https://github.com/your-username/taskflow/issues)
-- 💬 [Discussions](https://github.com/your-username/taskflow/discussions)
+- 📖 [Documentation](https://github.com/ChristianRelf/taskflow/wiki)
+- 🐛 [Report Issues](https://github.com/ChristianRelf/taskflow/issues)
+- 💬 [Discussions](https://github.com/ChristianRelf/taskflow/discussions)
 
 ## 🌟 Show your support
 
